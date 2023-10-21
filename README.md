@@ -1,16 +1,9 @@
-updated
+UPDATED !! (temporary fix) thanks to [@platipus9999](https://github.com/platipus9999)
 
-<!-- #### Paid unpatched viewbot for 24.99€ !!: https://onlp.sellix.io or in dc server 
-repo works again, maybe needs proxies but here you go -->
-
-<h2 align="center">server: <a href="https://discord.gg/onlp">discord.gg/onlp</a></h2>
-
+`v2.py` has automatic captcha solver
 
 
 &emsp;
-
-<h2 align="center">tutorial: <a href="https://www.youtube.com/watch?v=x97aLsPSJtQ">youtube.com/watch?v=x97aLsPSJtQ</a></h2>
-
 
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/98614666/218313368-e8b3613c-6639-4922-95ac-c23bbcdffdf1.png"></img>
@@ -23,9 +16,8 @@ repo works again, maybe needs proxies but here you go -->
 How to run:
 ```
   1. Verify that you have pip and python installed => https://www.youtube.com/watch?v=dYfKJMPNMDw
-  2. Run this command in cmd: pip install requests bs4 cursor pystyle pillow
-  3. replace the video id in config.json by yours
-  4. run the python file by double clicking on it or type: python viewbot.py
+  2. Run this command in cmd: pip install tls_client requests colorama pillow
+  3. run the python file by double clicking on it or type: python viewbot.py
 ```
 
 Advantages:
